@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.3.1.20230401' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "testfile.png"; bbox 0 0 580 240; ppageno 0; scan_res 70 70'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 9 377 34">
+    <p class='ocr_par' id='par_1_1' lang='kor' title="bbox 203 9 377 34">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 9 377 34; baseline -0.017 0; x_size 32.666668; x_descenders 8.166667; x_ascenders 8.166667">
+      <span class='ocrx_word' id='word_1_1' title='bbox 203 9 377 34; x_wconf 92'>주</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 247 5 281 46; x_wconf 92'>간</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 281 5 317 46; x_wconf 93'>식</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 316 5 356 46; x_wconf 91'>단</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 355 5 381 46; x_wconf 92'>표</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_2' title="bbox 0 48 578 50"></div>
+   <div class='ocr_separator' id='block_1_3' title="bbox 0 72 578 74"></div>
+   <div class='ocr_separator' id='block_1_4' title="bbox 42 91 578 92"></div>
+   <div class='ocr_separator' id='block_1_5' title="bbox 42 146 578 147"></div>
+   <div class='ocr_separator' id='block_1_6' title="bbox 42 164 578 165"></div>
+   <div class='ocr_separator' id='block_1_7' title="bbox 42 182 578 183"></div>
+   <div class='ocr_separator' id='block_1_8' title="bbox 42 201 578 202"></div>
+   <div class='ocr_carea' id='block_1_9' title="bbox 13 25 552 214">
+    <p class='ocr_par' id='par_1_2' lang='kor' title="bbox 13 25 552 214">
+     <span class='ocr_line' id='line_1_2' title="bbox 317 25 338 34; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_6' title='bbox 313 15 320 43; x_wconf 51'>[</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 317 25 338 34; x_wconf 51'>내</span>
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 68 48 552 76; baseline 0 -9; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_8' title='bbox 68 48 110 76; x_wconf 0'>602(3)</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 157 57 196 67; x_wconf 4'>61368</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 247 58 261 67; x_wconf 0'>66</span>
+      <span class='ocrx_word' id='word_1_11' title='bbox 262 58 271 67; x_wconf 0'>씨</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 274 57 281 66; x_wconf 41'>수</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 281 58 285 67; x_wconf 86'>)</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 336 48 360 76; x_wconf 0'>6015(</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 363 57 370 66; x_wconf 0'>묵</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 370 58 374 67; x_wconf 68'>)</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 425 48 463 76; x_wconf 19'>60603</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 514 57 552 67; x_wconf 0'>676)</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 62 77 480 87; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_19' title='bbox 62 77 72 87; x_wconf 68'>팽</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 73 77 82 86; x_wconf 93'>이</span>
+      <span class='ocrx_word' id='word_1_21' title='bbox 84 77 93 87; x_wconf 92'>된</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 96 77 104 87; x_wconf 92'>장</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 107 78 114 86; x_wconf 94'>국</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 124 68 132 96; x_wconf 68'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 142 77 150 87; x_wconf 27'>열</span>
+      <span class='ocrx_word' id='word_1_26' title='bbox 152 78 161 87; x_wconf 30'>큼</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 162 78 171 87; x_wconf 59'>종</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 173 77 182 86; x_wconf 85'>나</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 184 77 192 87; x_wconf 92'>물</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 196 78 209 87; x_wconf 90'>무</span>
+      <span class='ocrx_word' id='word_1_31' title='bbox 208 68 218 96; x_wconf 87'>국</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 220 68 226 96; x_wconf 71'>｜</span>
+      <span class='ocrx_word' id='word_1_33' title='bbox 233 68 239 96; x_wconf 52'>。</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 252 77 260 86; x_wconf 72'>미</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 262 77 281 86; x_wconf 40'>액</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 273 68 284 96; x_wconf 97'>국</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 340 77 350 86; x_wconf 87'>유</span>
+      <span class='ocrx_word' id='word_1_38' title='bbox 353 77 366 87; x_wconf 93'>부</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 365 67 377 95; x_wconf 92'>국</span>
+      <span class='ocrx_word' id='word_1_40' title='bbox 381 67 387 95; x_wconf 85'>_</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 393 67 398 95; x_wconf 76'>｜</span>
+      <span class='ocrx_word' id='word_1_42' title='bbox 408 77 418 85; x_wconf 68'>호</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 419 77 428 86; x_wconf 93'>박</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 429 78 438 86; x_wconf 92'>두</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 440 77 449 87; x_wconf 93'>부</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 451 77 459 87; x_wconf 93'>된</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 462 77 470 87; x_wconf 93'>장</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 472 78 480 86; x_wconf 94'>국</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 58 95 475 105; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_49' title='bbox 58 95 66 105; x_wconf 92'>김</span>
+      <span class='ocrx_word' id='word_1_50' title='bbox 68 95 77 105; x_wconf 93'>치</span>
+      <span class='ocrx_word' id='word_1_51' title='bbox 78 96 87 105; x_wconf 92'>든</span>
+      <span class='ocrx_word' id='word_1_52' title='bbox 90 95 97 105; x_wconf 70'>물</span>
+      <span class='ocrx_word' id='word_1_53' title='bbox 101 96 108 103; x_wconf 93'>고</span>
+      <span class='ocrx_word' id='word_1_54' title='bbox 111 95 119 105; x_wconf 96'>기</span>
+      <span class='ocrx_word' id='word_1_55' title='bbox 127 86 135 114; x_wconf 68'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_56' title='bbox 146 95 155 105; x_wconf 73'>햄</span>
+      <span class='ocrx_word' id='word_1_57' title='bbox 157 95 166 105; x_wconf 92'>야</span>
+      <span class='ocrx_word' id='word_1_58' title='bbox 167 95 176 105; x_wconf 93'>채</span>
+      <span class='ocrx_word' id='word_1_59' title='bbox 178 95 186 105; x_wconf 70'>볶</span>
+      <span class='ocrx_word' id='word_1_60' title='bbox 188 95 197 105; x_wconf 93'>음</span>
+      <span class='ocrx_word' id='word_1_61' title='bbox 201 95 208 105; x_wconf 85'>밥</span>
+      <span class='ocrx_word' id='word_1_62' title='bbox 256 95 276 105; x_wconf 82'>보</span>
+      <span class='ocrx_word' id='word_1_63' title='bbox 271 85 286 113; x_wconf 29'>쌈</span>
+      <span class='ocrx_word' id='word_1_64' title='bbox 301 85 310 113; x_wconf 66'>|</span>
+      <span class='ocrx_word' id='word_1_65' title='bbox 315 97 323 105; x_wconf 55'>까</span>
+      <span class='ocrx_word' id='word_1_66' title='bbox 325 97 332 103; x_wconf 15'>트</span>
+      <span class='ocrx_word' id='word_1_67' title='bbox 334 97 349 105; x_wconf 92'>보</span>
+      <span class='ocrx_word' id='word_1_68' title='bbox 352 97 360 105; x_wconf 0'>라</span>
+      <span class='ocrx_word' id='word_1_69' title='bbox 362 97 369 103; x_wconf 93'>스</span>
+      <span class='ocrx_word' id='word_1_70' title='bbox 371 97 378 104; x_wconf 80'>파</span>
+      <span class='ocrx_word' id='word_1_71' title='bbox 381 97 387 105; x_wconf 79'>계</span>
+      <span class='ocrx_word' id='word_1_72' title='bbox 392 97 396 105; x_wconf 0'>티</span>
+      <span class='ocrx_word' id='word_1_73' title='bbox 397 85 403 113; x_wconf 84'>|</span>
+      <span class='ocrx_word' id='word_1_74' title='bbox 414 95 422 105; x_wconf 61'>등</span>
+      <span class='ocrx_word' id='word_1_75' title='bbox 424 95 433 105; x_wconf 92'>갈</span>
+      <span class='ocrx_word' id='word_1_76' title='bbox 435 95 443 105; x_wconf 93'>비</span>
+      <span class='ocrx_word' id='word_1_77' title='bbox 446 95 454 105; x_wconf 93'>김</span>
+      <span class='ocrx_word' id='word_1_78' title='bbox 456 95 464 105; x_wconf 93'>치</span>
+      <span class='ocrx_word' id='word_1_79' title='bbox 467 95 475 105; x_wconf 0'>찜</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 68 122 464 150; baseline 0 -9; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_80' title='bbox 68 132 76 141; x_wconf 35'>어</span>
+      <span class='ocrx_word' id='word_1_81' title='bbox 79 132 87 141; x_wconf 92'>묵</span>
+      <span class='ocrx_word' id='word_1_82' title='bbox 90 132 98 141; x_wconf 7'>볶</span>
+      <span class='ocrx_word' id='word_1_83' title='bbox 100 132 108 141; x_wconf 95'>음</span>
+      <span class='ocrx_word' id='word_1_84' title='bbox 167 132 179 141; x_wconf 24'>짜</span>
+      <span class='ocrx_word' id='word_1_85' title='bbox 178 122 191 150; x_wconf 63'>장</span>
+      <span class='ocrx_word' id='word_1_86' title='bbox 256 132 276 141; x_wconf 65'>상추</span>
+      <span class='ocrx_word' id='word_1_87' title='bbox 345 132 354 141; x_wconf 81'>피</span>
+      <span class='ocrx_word' id='word_1_88' title='bbox 358 132 365 141; x_wconf 92'>클</span>
+      <span class='ocrx_word' id='word_1_89' title='bbox 424 132 433 140; x_wconf 91'>오</span>
+      <span class='ocrx_word' id='word_1_90' title='bbox 435 132 443 141; x_wconf 92'>이</span>
+      <span class='ocrx_word' id='word_1_91' title='bbox 446 132 454 141; x_wconf 92'>무</span>
+      <span class='ocrx_word' id='word_1_92' title='bbox 456 132 464 141; x_wconf 85'>침</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 13 150 470 160; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_93' title='bbox 13 151 32 160; x_wconf 32'>즘</span>
+      <span class='ocrx_word' id='word_1_94' title='bbox 24 142 34 170; x_wconf 87'>식</span>
+      <span class='ocrx_word' id='word_1_95' title='bbox 38 142 43 170; x_wconf 64'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_96' title='bbox 52 151 61 158; x_wconf 64'>오</span>
+      <span class='ocrx_word' id='word_1_97' title='bbox 63 150 72 159; x_wconf 93'>이</span>
+      <span class='ocrx_word' id='word_1_98' title='bbox 74 150 82 160; x_wconf 65'>열</span>
+      <span class='ocrx_word' id='word_1_99' title='bbox 84 151 93 159; x_wconf 92'>무</span>
+      <span class='ocrx_word' id='word_1_100' title='bbox 94 150 103 160; x_wconf 53'>검</span>
+      <span class='ocrx_word' id='word_1_101' title='bbox 105 150 114 160; x_wconf 31'>정</span>
+      <span class='ocrx_word' id='word_1_102' title='bbox 117 142 134 170; x_wconf 71'>이ㅣ</span>
+      <span class='ocrx_word' id='word_1_103' title='bbox 146 151 155 158; x_wconf 92'>오</span>
+      <span class='ocrx_word' id='word_1_104' title='bbox 157 150 166 159; x_wconf 93'>이</span>
+      <span class='ocrx_word' id='word_1_105' title='bbox 168 150 177 159; x_wconf 93'>야</span>
+      <span class='ocrx_word' id='word_1_106' title='bbox 180 150 187 159; x_wconf 93'>채</span>
+      <span class='ocrx_word' id='word_1_107' title='bbox 191 150 205 160; x_wconf 92'>무</span>
+      <span class='ocrx_word' id='word_1_108' title='bbox 205 142 214 170; x_wconf 93'>짐</span>
+      <span class='ocrx_word' id='word_1_109' title='bbox 220 142 226 170; x_wconf 67'>|</span>
+      <span class='ocrx_word' id='word_1_110' title='bbox 241 150 250 160; x_wconf 89'>간</span>
+      <span class='ocrx_word' id='word_1_111' title='bbox 251 150 292 160; x_wconf 93'>장</span>
+      <span class='ocrx_word' id='word_1_112' title='bbox 262 142 274 170; x_wconf 93'>고</span>
+      <span class='ocrx_word' id='word_1_113' title='bbox 273 150 286 160; x_wconf 90'>추</span>
+      <span class='ocrx_word' id='word_1_114' title='bbox 285 142 296 170; x_wconf 80'>지</span>
+      <span class='ocrx_word' id='word_1_115' title='bbox 303 142 314 170; x_wconf 28'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_116' title='bbox 315 151 323 158; x_wconf 0'>느</span>
+      <span class='ocrx_word' id='word_1_117' title='bbox 324 151 332 160; x_wconf 14'>타</span>
+      <span class='ocrx_word' id='word_1_118' title='bbox 333 151 341 159; x_wconf 93'>리</span>
+      <span class='ocrx_word' id='word_1_119' title='bbox 343 151 350 159; x_wconf 7'>버</span>
+      <span class='ocrx_word' id='word_1_120' title='bbox 352 151 359 160; x_wconf 0'>슷</span>
+      <span class='ocrx_word' id='word_1_121' title='bbox 362 151 377 159; x_wconf 89'>야</span>
+      <span class='ocrx_word' id='word_1_122' title='bbox 379 151 387 159; x_wconf 0'>츄</span>
+      <span class='ocrx_word' id='word_1_123' title='bbox 390 151 396 160; x_wconf 59'>용</span>
+      <span class='ocrx_word' id='word_1_124' title='bbox 399 142 403 170; x_wconf 35'>|</span>
+      <span class='ocrx_word' id='word_1_125' title='bbox 409 142 412 170; x_wconf 11'>_</span>
+      <span class='ocrx_word' id='word_1_126' title='bbox 419 150 428 160; x_wconf 72'>양</span>
+      <span class='ocrx_word' id='word_1_127' title='bbox 430 150 470 160; x_wconf 56'>냄</span>
+      <span class='ocrx_word' id='word_1_128' title='bbox 441 142 452 170; x_wconf 23'>펫</span>
+      <span class='ocrx_word' id='word_1_129' title='bbox 451 142 463 170; x_wconf 88'>잎</span>
+      <span class='ocrx_word' id='word_1_130' title='bbox 462 142 473 170; x_wconf 96'>지</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 63 159 480 187; baseline 0 -9; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_131' title='bbox 63 169 71 178; x_wconf 38'>종</span>
+      <span class='ocrx_word' id='word_1_132' title='bbox 74 168 86 178; x_wconf 92'>나</span>
+      <span class='ocrx_word' id='word_1_133' title='bbox 85 159 96 187; x_wconf 90'>물</span>
+      <span class='ocrx_word' id='word_1_134' title='bbox 95 169 103 178; x_wconf 93'>무</span>
+      <span class='ocrx_word' id='word_1_135' title='bbox 106 168 114 178; x_wconf 76'>짐</span>
+      <span class='ocrx_word' id='word_1_136' title='bbox 163 168 172 178; x_wconf 89'>단</span>
+      <span class='ocrx_word' id='word_1_137' title='bbox 173 169 182 178; x_wconf 93'>무</span>
+      <span class='ocrx_word' id='word_1_138' title='bbox 183 168 192 178; x_wconf 80'>지</span>
+      <span class='ocrx_word' id='word_1_139' title='bbox 235 168 244 178; x_wconf 46'>축</span>
+      <span class='ocrx_word' id='word_1_140' title='bbox 246 169 255 178; x_wconf 83'>주</span>
+      <span class='ocrx_word' id='word_1_141' title='bbox 257 168 266 178; x_wconf 93'>나</span>
+      <span class='ocrx_word' id='word_1_142' title='bbox 269 168 276 178; x_wconf 92'>물</span>
+      <span class='ocrx_word' id='word_1_143' title='bbox 280 168 294 178; x_wconf 93'>무</span>
+      <span class='ocrx_word' id='word_1_144' title='bbox 294 159 305 187; x_wconf 95'>짐</span>
+      <span class='ocrx_word' id='word_1_145' title='bbox 309 159 315 187; x_wconf 90'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_146' title='bbox 335 168 344 178; x_wconf 92'>가</span>
+      <span class='ocrx_word' id='word_1_147' title='bbox 345 168 354 178; x_wconf 93'>지</span>
+      <span class='ocrx_word' id='word_1_148' title='bbox 357 169 365 178; x_wconf 93'>무</span>
+      <span class='ocrx_word' id='word_1_149' title='bbox 371 168 375 178; x_wconf 46'>짐</span>
+      <span class='ocrx_word' id='word_1_150' title='bbox 393 159 398 187; x_wconf 86'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_151' title='bbox 408 168 417 178; x_wconf 86'>견</span>
+      <span class='ocrx_word' id='word_1_152' title='bbox 420 168 428 178; x_wconf 93'>과</span>
+      <span class='ocrx_word' id='word_1_153' title='bbox 430 168 439 178; x_wconf 76'>류</span>
+      <span class='ocrx_word' id='word_1_154' title='bbox 440 168 449 178; x_wconf 81'>멸</span>
+      <span class='ocrx_word' id='word_1_155' title='bbox 451 168 460 178; x_wconf 93'>치</span>
+      <span class='ocrx_word' id='word_1_156' title='bbox 462 168 470 178; x_wconf 57'>볶</span>
+      <span class='ocrx_word' id='word_1_157' title='bbox 472 168 480 178; x_wconf 96'>음</span>
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 63 186 470 196; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_158' title='bbox 63 187 72 196; x_wconf 84'>야</span>
+      <span class='ocrx_word' id='word_1_159' title='bbox 73 186 114 196; x_wconf 67'>체</span>
+      <span class='ocrx_word' id='word_1_160' title='bbox 87 177 98 205; x_wconf 86'>셀</span>
+      <span class='ocrx_word' id='word_1_161' title='bbox 97 186 110 196; x_wconf 93'>러</span>
+      <span class='ocrx_word' id='word_1_162' title='bbox 109 177 121 205; x_wconf 87'>드</span>
+      <span class='ocrx_word' id='word_1_163' title='bbox 127 177 135 205; x_wconf 65'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_164' title='bbox 152 187 161 196; x_wconf 74'>정</span>
+      <span class='ocrx_word' id='word_1_165' title='bbox 162 186 171 196; x_wconf 92'>경</span>
+      <span class='ocrx_word' id='word_1_166' title='bbox 174 187 182 196; x_wconf 93'>체</span>
+      <span class='ocrx_word' id='word_1_167' title='bbox 186 187 199 196; x_wconf 86'>무</span>
+      <span class='ocrx_word' id='word_1_168' title='bbox 199 177 210 205; x_wconf 95'>짐</span>
+      <span class='ocrx_word' id='word_1_169' title='bbox 216 177 224 205; x_wconf 86'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_170' title='bbox 241 187 250 196; x_wconf 59'>야</span>
+      <span class='ocrx_word' id='word_1_171' title='bbox 251 186 260 196; x_wconf 80'>체</span>
+      <span class='ocrx_word' id='word_1_172' title='bbox 263 187 271 196; x_wconf 92'>샐</span>
+      <span class='ocrx_word' id='word_1_173' title='bbox 276 186 289 196; x_wconf 92'>러</span>
+      <span class='ocrx_word' id='word_1_174' title='bbox 288 177 299 205; x_wconf 95'>드</span>
+      <span class='ocrx_word' id='word_1_175' title='bbox 305 177 313 205; x_wconf 66'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_176' title='bbox 330 187 339 196; x_wconf 79'>야</span>
+      <span class='ocrx_word' id='word_1_177' title='bbox 340 186 349 196; x_wconf 93'>채</span>
+      <span class='ocrx_word' id='word_1_178' title='bbox 353 187 360 196; x_wconf 58'>셀</span>
+      <span class='ocrx_word' id='word_1_179' title='bbox 365 186 380 196; x_wconf 92'>러</span>
+      <span class='ocrx_word' id='word_1_180' title='bbox 379 177 390 205; x_wconf 96'>드</span>
+      <span class='ocrx_word' id='word_1_181' title='bbox 395 177 402 205; x_wconf 81'>ㅣ</span>
+      <span class='ocrx_word' id='word_1_182' title='bbox 419 187 428 196; x_wconf 77'>야</span>
+      <span class='ocrx_word' id='word_1_183' title='bbox 429 186 470 196; x_wconf 93'>채</span>
+      <span class='ocrx_word' id='word_1_184' title='bbox 440 177 451 205; x_wconf 90'>셀</span>
+      <span class='ocrx_word' id='word_1_185' title='bbox 451 186 464 196; x_wconf 93'>러</span>
+      <span class='ocrx_word' id='word_1_186' title='bbox 463 177 474 205; x_wconf 79'>드</span>
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 78 205 454 214; baseline 0 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_187' title='bbox 78 205 87 214; x_wconf 84'>김</span>
+      <span class='ocrx_word' id='word_1_188' title='bbox 89 205 98 214; x_wconf 92'>치</span>
+      <span class='ocrx_word' id='word_1_189' title='bbox 152 205 161 214; x_wconf 89'>야</span>
+      <span class='ocrx_word' id='word_1_190' title='bbox 162 205 171 214; x_wconf 54'>채</span>
+      <span class='ocrx_word' id='word_1_191' title='bbox 173 205 182 214; x_wconf 92'>셀</span>
+      <span class='ocrx_word' id='word_1_192' title='bbox 184 205 192 214; x_wconf 93'>러</span>
+      <span class='ocrx_word' id='word_1_193' title='bbox 195 205 203 213; x_wconf 85'>드</span>
+      <span class='ocrx_word' id='word_1_194' title='bbox 256 205 265 214; x_wconf 43'>김</span>
+      <span class='ocrx_word' id='word_1_195' title='bbox 267 205 276 214; x_wconf 94'>치</span>
+      <span class='ocrx_word' id='word_1_196' title='bbox 345 205 354 214; x_wconf 41'>김</span>
+      <span class='ocrx_word' id='word_1_197' title='bbox 356 205 365 214; x_wconf 94'>치</span>
+      <span class='ocrx_word' id='word_1_198' title='bbox 434 205 454 214; x_wconf 37'>겸</span>
+      <span class='ocrx_word' id='word_1_199' title='bbox 445 196 458 224; x_wconf 88'>치</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_10' title="bbox 42 219 578 220"></div>
+   <div class='ocr_carea' id='block_1_11' title="bbox 167 223 187 233">
+    <p class='ocr_par' id='par_1_3' lang='kor' title="bbox 167 223 187 233">
+     <span class='ocr_line' id='line_1_11' title="bbox 167 223 187 233; baseline 0.1 -3; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_200' title='bbox 167 223 187 233; x_wconf 77'>김</span>
+      <span class='ocrx_word' id='word_1_201' title='bbox 178 211 191 239; x_wconf 90'>치</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_12' title="bbox 0 236 578 238"></div>
+  </div>
+ </body>
+</html>
