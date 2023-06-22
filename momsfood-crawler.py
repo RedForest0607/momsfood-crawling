@@ -4,7 +4,6 @@ import os
 import pytesseract
 import sys
 
-pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
 config = ('--psm 4 -c tessedit_create_hocr=1')
 
 # https://blog.naver.com/momsfood_ 맘스푸드 블로그 주소
@@ -32,6 +31,6 @@ def main(argv):
                     x1, y1, x2, y2 = map (int, title[5:title.find(";")].split())
                     lines_structure.append({"x1":x1, "y1": y1, "x2": x2, "y2": y2, "text":line_text})
             except Exception as err:
-                print("error occured" + err.with_traceback(tb))
+                print("error occured" + str(err))
 if __name__ == "__main__":
     main(sys.argv[1:])
